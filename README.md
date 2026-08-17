@@ -2,13 +2,13 @@
 
 ## Contents
 
-- [Business Objective](#business-objective)
+- [Business Objective](#Business-objective)
 
-- [DataSet](#dataSet)
+- [DataSet](#DataSet)
 
-- [Data Preparation](#data-preparation)
+- [Data Preparation](#Data-Preparation)
 
-- [Analysis](#analysis)
+- [Analysis](#Analysis)
 
 - [Visualization](#Visualization)
 
